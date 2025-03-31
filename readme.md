@@ -89,6 +89,3 @@ This implementation prioritizes simplicity and performance for demonstration pur
 - Dynamic resizing of the hash table
 - Error handling and recovery mechanisms
 
-## License
-
-[Include your license information here]
